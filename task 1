@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+   <link href="css/index.css" rel="stylesheet" type="text/css" />
+<body>
+
+<h1>Menu</h1>
+
+
+  
+  <div class="container">
+
+
+
+    
+<div class="menu" >
+  
+    
+    <p  class="as"id="m1">Chicken</p>  
+    <p id="body">A paragraph is a group of related sentences that support one main idea. In general, paragraphs consist of three parts: the topic sentence, body sentences, and the concluding or the bridge sentence to the next paragraph or section</p> 
+</div>
+<div class="menu" id="menu2">
+  
+    
+    <p  class="as"id="m2">Beef</p> 
+    <p id="body">A paragraph is a group of related sentences that support one main idea. In general, paragraphs consist of three parts: the topic sentence, body sentences, and the concluding or the bridge sentence to the next paragraph or section</p> 
+</div>
+
+
+
+<div class="menu" id="menu3">
+  
+    
+    <p  class="as">Sushi</p> 
+    <p id="body">A paragraph is a group of related sentences that support one main idea. In general, paragraphs consist of three parts: the topic sentence, body sentences, and the concluding or the bridge sentence to the next paragraph or section</p> 
+</div>
+
+
+</div>
+
+</body>
+</html> 
