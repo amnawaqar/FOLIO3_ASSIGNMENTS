@@ -1,0 +1,53 @@
+h1 {
+text-align: center;
+
+}
+
+div#container{
+
+position: relative;
+top: 10px;
+}
+
+.as{
+position:absolute;
+right: 0px;
+top: 0px;
+width: 33%;
+border: 1px solid black;
+background-color: #ffecbd;
+margin: 0;
+padding: 5px;
+font:bolder;
+text-align: center;
+}
+
+
+.menu {
+    position:absolute;
+border: 1px solid black;
+background-color: #808080;
+margin: 10px;
+width: 30%;
+padding: 10px;
+}
+
+#menu3 {
+  left:66%;
+  
+}
+
+#menu2 {
+  left:33.5%;
+  
+}
+#m1 {
+    background-color:pink;
+  
+}
+#m2 {
+    background-color:red;
+    color: white;
+
+  
+}
