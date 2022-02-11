@@ -1,5 +1,6 @@
 # FOLIO3_ASSIGNMENTS
-
+Task 1
+![d88ea45c-7154-4002-9c15-8fa7f54e3ac3](https://user-images.githubusercontent.com/36014717/153649240-c5cdfc47-a278-42fc-afec-a0e8b65e1a65.jpg)
 
 task 2
 
